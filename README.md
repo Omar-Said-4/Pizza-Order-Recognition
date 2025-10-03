@@ -20,21 +20,6 @@ Extracting structured pizza-order information from raw customer text. This proje
     <td><a href="#repository-layout">📂 Repository Layout</a></td>
   </tr>
   <tr>
-    <td><a href="#getting-started">🚀 Getting Started</a></td>
-  </tr>
-  <tr>
-    <td><a href="#notebooks--scripts">📓 Notebooks & Scripts</a></td>
-  </tr>
-  <tr>
-    <td><a href="#evaluation-artifacts">📊 Evaluation Artifacts</a></td>
-  </tr>
-  <tr>
-    <td><a href="#common-issues--edge-cases">⚠️ Common Issues & Edge Cases</a></td>
-  </tr>
-  <tr>
-    <td><a href="#next-steps--recommendations">➡️ Next Steps & Recommendations</a></td>
-  </tr>
-  <tr>
     <td><a href="#contributors">🤝 Contributors</a></td>
   </tr>
 </table>
