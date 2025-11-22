@@ -1,0 +1,8 @@
+*.json
+*.txt
+*.bin
+*.zip
+*.h5
+*.npy
+*.keras
+*.csv
